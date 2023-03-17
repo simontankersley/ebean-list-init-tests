@@ -1,0 +1,5 @@
+ebean:
+  test:
+    platform: postgres
+    dbName: ebean_delete_return_12_test
+    ddlMode: dropCreate
